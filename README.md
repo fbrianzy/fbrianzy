@@ -8,9 +8,9 @@
  
  🌍  I'm based in **Sidoarjo, Indonesia**
  
- 🧠 I’m currently learning **SQL Inject, Burp Suite, Nmap**
+ 🧠 I’m currently learning **RDBMS, DBMS, Burp Suite, Nmap**
 
- 💬 Ask me about **Python**
+ 💬 Ask me about **Python, RDBMS, DBMS, Cyber Security**
 
  ⚡ My Dream is To Work On **Google Company**
 
@@ -33,20 +33,32 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,vscode,github,flutter,py,cpp,js,react&perline=4" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,vscode,github,flutter,py,cpp,js,html,css,react" /><br>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Languange ⚡</h2>
 <br>
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&count_private=true">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=false">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 </div>
-
 <br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+</div>
+<br/>
+
+<h2 align="center">⚡ Streak-stats ⚡</h2>
+<br>
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=false">
+</div>
+<br/>
+
 <hr/>
 
 <h2 align="center"> 📌 Portfolio Website 📌 </h2>
