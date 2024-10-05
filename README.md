@@ -38,14 +38,14 @@
 
 <hr/>
 
-<h2 align="center">⚡ Languange ⚡</h2>
+<h2 align="center">⚡ Languages-stats ⚡</h2>
 <br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 </div>
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github-stats ⚡</h2>
 <br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&count_private=true">
