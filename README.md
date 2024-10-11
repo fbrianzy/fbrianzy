@@ -36,7 +36,11 @@
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,vscode,github,flutter,py,cpp,js,html,css,react" /><br>
 </div>
 
-<hr/>
+<!-- <div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=fbrianzy&theme=dracula" /><br>
+</div>
+
+<hr/> -->
 
 <h2 align="center">⚡ Languages-stats ⚡</h2>
 <br>
