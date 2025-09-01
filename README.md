@@ -32,9 +32,49 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<!-- Programming Languages -->
+<h3 align="center">⚡ Programming Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,vscode,github,flutter,py,cpp,js,html,css,react,discord,bots,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,js,ts,php,dart,kotlin,swift,lua,rust,r,matlab" />
 </div>
+<br/>
+
+<!-- Frameworks & Libraries -->
+<h3 align="center">🧩 Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,django,flask,fastapi,laravel,bootstrap,tailwind,sklearn,tensorflow,opencv" />
+</div>
+<br/>
+
+<!-- Tools & Platforms -->
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,replit,postman,git,github,gitlab,npm,powershell,regex,latex,arduino,unity,unreal,robloxstudio,figma,vercel,wordpress" />
+</div>
+<br/>
+
+<!-- Databases & Message Brokers -->
+<h3 align="center">🗄️ Databases & Message Brokers</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,rabbitmq" />
+</div>
+<br/>
+
+<!-- Cloud & DevOps -->
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,linux,ubuntu,debian,kali" />
+</div>
+<br/>
+
+<!-- Communication & Bots -->
+<h3 align="center">💬 Communication & Bots</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord,discordjs,bots" />
+</div>
+<br/>
+
 
 <!-- <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=fbrianzy&theme=dracula" /><br>
