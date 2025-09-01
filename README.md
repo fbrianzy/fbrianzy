@@ -82,7 +82,7 @@
 
 <hr/> -->
 
-<h3 align="center"> 💻 Code Showcase — *Operation: Hello GitHub* </h3>
+<h3 align="center"> 💻 Code Showcase — <b>Operation: Hello GitHub</b> </h3>
 <p> Setiap bahasa menampilkan satu potongan log cerita yang berurutan. Jalankan berurutan kalau mau ngerasain “serial log”-nya. </p>
 
 ---
