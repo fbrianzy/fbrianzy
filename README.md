@@ -43,7 +43,7 @@
 <!-- Frameworks & Libraries -->
 <h3 align="center">🧩 Frameworks & Libraries</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,django,flask,fastapi,laravel,bootstrap,tailwind,sklearn,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,django,flask,fastapi,laravel,bootstrap,tailwind,nodejs,sklearn,tensorflow,opencv" />
 </div>
 <br/>
 
@@ -81,6 +81,136 @@
 </div>
 
 <hr/> -->
+
+<h3 align="center"> 💻 Code Showcase — *Operation: Hello GitHub* </h3>
+<p> Setiap bahasa menampilkan satu potongan log cerita yang berurutan. Jalankan berurutan kalau mau ngerasain “serial log”-nya. </p>
+
+---
+
+### 1) Java — Boot Sequence
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("[Episode 01/12] BOOT: Beacon online. Handshake initiated — Java node ready.");
+    }
+}
+```
+
+---
+
+### 2) Python — Config Loaded
+```python
+def run():
+    print("[Episode 02/12] CONFIG: Profiles loaded. Routing secrets to volatile memory — Python engaged.")
+
+if __name__ == "__main__":
+    run()
+```
+
+---
+
+### 3) C++ — Channel Established
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "[Episode 03/12] LINK: Secure channel established. Heartbeat steady — C++ holding." << endl;
+    return 0;
+}
+```
+
+---
+
+### 4) C# — Credentials Verified
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("[Episode 04/12] AUTH: Multi-factor verified. Access token minted — C# greenlight.");
+    }
+}
+```
+
+---
+
+### 5) C — Sensors Calibrated
+```c
+#include <stdio.h>
+
+int main() {
+    printf("[Episode 05/12] CALIB: Telemetry synced. Noise floor minimized — C baseline stable.\n");
+    return 0;
+}
+```
+
+---
+
+
+### 6) JavaScript — Target Resolved
+```js
+(() => {
+  console.log("[Episode 06/12] RESOLVE: Target signature triangulated — JavaScript lock acquired.");
+})();
+```
+
+---
+
+### 7) TypeScript — Plan Compiled
+```ts
+function execute(plan: string): void {
+  console.log(`[Episode 07/12] COMPILE: Strategy '${plan}' transpiled — TypeScript validates.`);
+}
+execute("Silent Uplink v1.0");
+```
+
+---
+
+### 8) Rust — Systems Armed
+```rust
+fn main() {
+    println!("[Episode 08/12] ARM: Ownership secured, race-free channel primed — Rust standing by.");
+}
+```
+
+---
+
+### 9) PHP — Payload Packed
+```php
+<?php
+echo "[Episode 09/12] PACKAGE: Payload serialized & signed — PHP bundle sealed.\n";
+```
+
+---
+
+### 10) Go — Dispatch Launched
+```go
+package main
+import "fmt"
+
+func main() {
+    fmt.Println("[Episode 10/12] DISPATCH: Goroutines fanned out — Go courier en route.")
+}
+```
+
+---
+
+### 11) Swift — Delivery Confirmed
+```swift
+import Foundation
+
+print("[Episode 11/12] DELIVERY: Secure drop completed — Swift receipt acknowledged.")
+```
+
+---
+
+### 12) R — Mission Complete
+```r
+cat("[Episode 12/12] STATUS: Signals green across the board — R confirms mission complete.\n")
+```
+
+---
 
 <h2 align="center">⚡ Languages-stats ⚡</h2>
 <br>
