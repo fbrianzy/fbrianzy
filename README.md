@@ -82,6 +82,51 @@
 
 <hr/> -->
 
+
+<h2 align="center">⚡ Languages-stats ⚡</h2>
+<br>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&layout=compact">
+</div>
+<br/>
+
+<h2 align="center">⚡ Github-stats ⚡</h2>
+<br>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+</div>
+<br/>
+
+<h2 align="center">⚡ Streak-stats ⚡</h2>
+<br>
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=false">
+</div>
+<br/>
+
+<hr/>
+
+<h2 align="center"> 📌 Portfolio Website 📌 </h2>
+
+<div align="center"> 
+  <a href="https://fbrianzy.github.io/portofolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge" />
+  </a>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/fbrianzy/fbrianzy/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
 <h3 align="center"> 💻 Code Showcase — <b>Operation: Hello GitHub</b> </h3>
 <p> Setiap bahasa menampilkan satu potongan log cerita yang berurutan. Jalankan berurutan kalau mau ngerasain “serial log”-nya. </p>
 
@@ -212,45 +257,4 @@ cat("[Episode 12/12] STATUS: Signals green across the board — R confirms missi
 
 ---
 
-<h2 align="center">⚡ Languages-stats ⚡</h2>
-<br>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&layout=compact">
-</div>
-<br/>
 
-<h2 align="center">⚡ Github-stats ⚡</h2>
-<br>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=false&count_private=true">
-</div>
-<br/>
-
-<h2 align="center">⚡ Streak-stats ⚡</h2>
-<br>
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=false">
-</div>
-<br/>
-
-<hr/>
-
-<h2 align="center"> 📌 Portfolio Website 📌 </h2>
-
-[![][black-shield]][black]
-
-[black]: https://fbrianzy.github.io/portofolio/
-[black-shield]: https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/fbrianzy/fbrianzy/output/snake.svg" alt="Snake animation" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
