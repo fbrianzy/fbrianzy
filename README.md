@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 **DATA MISSION CONTROL**
+## 🎯 **DATA MISSION CONTROLS**
 
 <div align="center">
 
