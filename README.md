@@ -1,10 +1,16 @@
-# Hi there, I'm **Brian** 👋
+<h1 align="center">Hi 👋, I'm Bagus Febriansyah Pratama</h1>
+<h3 align="center">An enthusiastic Data Science student from Surabaya, Indonesia</h3>
+
+❤️ I’m passionate about **Data Science, Machine Learning, and Analytics**.  
+✨ I’m studying and working with **Python, R, C++, JavaScript, and SQL**.  
+💡 Interested in building solutions around **Data Mining, Distributed Systems, and Business Insights**.  
+🚀 Actively developing projects such as **InsightFlow**, **Savor Save**, and academic research in AI & ML.  
 
 > *Transforming raw data into meaningful insights, one algorithm at a time.*
 
 ## About Me
 <img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
-<p align="left"> <img src="https://img.shields.io/github/followers/fbrianzy?label=Followers&style=for-the-badge&logo=github" alt="Followers"> <img src="https://img.shields.io/github/stars/fbrianzy?label=Stars&style=for-the-badge&logo=github" alt="Stars"> <img src="https://komarev.com/ghpvc/?username=fbrianzy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrianzy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
 - 👨🏻‍🎓 I’m currently pursuing my Bachelor’s Degree in **Data Science at Universitas Negeri Surabaya (UNESA)**
@@ -97,7 +103,7 @@
 - ☁️ **MLOps & Model Deployment**
 
 
-## Achievemnents
+## Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=fbrianzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
