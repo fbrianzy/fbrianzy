@@ -9,7 +9,7 @@
 > *Transforming raw data into meaningful insights, one algorithm at a time.*
 
 ## About Me
-<img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrianzy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
@@ -101,6 +101,13 @@
 - 🧠 **Deep Learning Applications**
 - 📊 **Data Visualization & Storytelling**
 - ☁️ **MLOps & Model Deployment**
+
+
+## Join Our Community
+
+Connect with other developers, share ideas, and collaborate!
+
+[![Join Discord](https://discord.com/api/guilds/1139219457194070137/widget.png?style=banner2)](https://discord.gg/h8Qp5xKvaE)
 
 
 ## Achievements
