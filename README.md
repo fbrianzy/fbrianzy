@@ -30,12 +30,12 @@ Git • Linux • VS Code • Figma
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dark&layout=compact&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dracula&layout=compact&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=true" />
 </div>
 
 
