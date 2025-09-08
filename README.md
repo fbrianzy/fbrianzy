@@ -4,7 +4,7 @@
 ❤️ I’m passionate about **Data Science, Machine Learning, and Analytics**.  
 ✨ I’m studying and working with **Python, R, C++, JavaScript, and SQL**.  
 💡 Interested in building solutions around **Data Mining, Distributed Systems, and Business Insights**.  
-🚀 Actively developing projects such as **InsightFlow**, **Savor Save**, and academic research in AI & ML.  
+🚀 Actively developing projects such as **InsightFlow**, **Savor Save**, **Dolen Cord** and academic research in AI & ML.  
 
 > *Transforming raw data into meaningful insights, one algorithm at a time.*
 
@@ -28,51 +28,30 @@
 
 ## Tech Arsenal
 
-<div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" /></code>
-  <img width="12" />
+Languages: <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat">&nbsp;  
 
-</div>
+Frameworks & Libraries: <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;  
+
+Development Tools & Platforms: <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat">&nbsp;
+
 
 ## Let's Connect
 
@@ -85,12 +64,9 @@
 ## GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dracula&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=dark&layout=compact&hide_border=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dark&hide_border=true" />
 </div>
 
 
@@ -105,9 +81,12 @@
 
 ## Join Our Community
 
-Connect with other developers, share ideas, and collaborate!
-
-[![Join Discord](https://discord.com/api/guilds/1139219457194070137/widget.png?style=banner2)](https://discord.gg/h8Qp5xKvaE)
+<p align="center">
+  <!-- Discord Banner -->
+  <a href="https://github.com/Dolen-Cord">
+    <img src="https://discord.com/api/guilds/1139219457194070137/widget.png?style=banner2" alt="Join our Discord" />
+  </a>
+</p>
 
 
 ## Achievements
