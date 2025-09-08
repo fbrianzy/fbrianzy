@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning more about **Machine Learning, Distributed Computing, and UI/UX Development**
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/fbrianzy)
 - 💬 Ask me about `Data Science`, `Machine Learning`, `Python`, or `Dashboard Development`
-- 📫 How to reach me [Email](mailto:fbrianzy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bagus-febriansyah-pratama)
+- 📫 How to reach me [Email](mailto:fbrianzy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fbrianzy)
 
 ## My Stacks
 - 3+ years of experience in **Python**, **Data Analysis**, and **Machine Learning**
