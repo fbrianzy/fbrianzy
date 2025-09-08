@@ -96,10 +96,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&icon_color=4A90E2" />
 
 ### 📈 **GITHUB ANALYTICS**
-<img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&icon_color=4A90E2" />
+<img src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracula&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&icon_color=4A90E2" />
 
 ### 🔥 **CODING STREAK**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=tokyonight&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=FF6B35&currStreakLabel=4A90E2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=true&background=0D1117&stroke=4A90E2&ring=FF6B35&fire=FF6B35&currStreakLabel=4A90E2" />
 
 </div>
 
@@ -108,7 +108,7 @@
 ## 🏆 **ACHIEVEMENTS UNLOCKED**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fbrianzy&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=fbrianzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
