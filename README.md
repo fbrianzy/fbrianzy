@@ -12,13 +12,21 @@
 <img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrianzy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-
 - 👨🏻‍🎓 I’m currently pursuing my Bachelor’s Degree in **Data Science at Universitas Negeri Surabaya (UNESA)**
-- 🔭 I’m currently working on several projects such as **InsightFlow**, **Savor Save**, and my academic research projects
+- 🔭 I’m currently working on several projects such as **Insight Flow**, **SavorSave**, **Dolen Cord** and my academic research projects
 - 🌱 I’m currently learning more about **Machine Learning, Distributed Computing, and UI/UX Development**
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/fbrianzy)
 - 💬 Ask me about `Data Science`, `Machine Learning`, `Python`, or `Dashboard Development`
-- 📫 How to reach me [Email](mailto:fbrianzy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fbrianzy)
+- 📫 How to reach me [Email](mailto:bagusfeb60@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fbrianzy)
+
+## Featured Projects
+
+| Logo | Description | Link |
+|------|-------------|------|
+| [<img src="assets/insightflow.png" width="50"/>](https://www.instagram.com/insightflowdata) | **Insight Flow** — Data insight & analytics hub for business trends. | [Instagram](https://www.instagram.com/insightflowdata) |
+| [<img src="assets/savorsave.png" width="50"/>](https://www.figma.com/proto/7kt9z4frJUfx8j4PNoFgy7/Prototype-SavorSave?node-id=0-1&t=uoJiKXzpPsdUqUNL-1) | **SavorSave** — A platform to reduce food waste and support circular economy. | [Figma Prototype](https://www.figma.com/proto/7kt9z4frJUfx8j4PNoFgy7/Prototype-SavorSave?node-id=0-1&t=uoJiKXzpPsdUqUNL-1) |
+| [<img src="https://avatars.githubusercontent.com/u/231014112" width="50"/>](https://github.com/Dolen-Cord) | **Dolen Cord** — Custom Discord bot with music, admin, and community features. | [GitHub](https://github.com/Dolen-Cord) |
+
 
 ## My Stacks
 - 3+ years of experience in **Python**, **Data Analysis**, and **Machine Learning**
@@ -84,6 +92,14 @@ Cloud System:
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&hide=html,css,jupyter%20notebook&theme=monokai&layout=compact&hide_border=true" />
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=monokai&hide_border=true" />
 </div>
+
+## WakaTime stats
+<div align="center">
+ 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbrianzy\&layout=compact)](https://github.com/fbrianzy/)
+
+</div>
+
 
 
 ## Current Focus
