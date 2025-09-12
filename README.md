@@ -98,9 +98,9 @@ Cloud System:
  
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbrianzy\&layout=compact)](https://github.com/fbrianzy/)
 
+[![wakatime](https://wakatime.com/badge/user/3ca91d59-fac7-4f62-ba46-a6193a10e248.svg)](https://wakatime.com/@3ca91d59-fac7-4f62-ba46-a6193a10e248)
+
 </div>
-
-
 
 ## Current Focus
 
