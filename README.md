@@ -90,7 +90,7 @@ Cloud System:
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=monokai&show_icons=true&hide_border=true&count_private=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&hide=html,css,jupyter%20notebook&theme=monokai&layout=compact&hide_border=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=monokai&hide_border=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dark&hide_border=true" />
 </div>
 
 ## WakaTime stats
