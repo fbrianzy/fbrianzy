@@ -131,6 +131,8 @@ Cloud System:
 
 ## Contributions
 
+[![committers.top badge](https://user-badge.committers.top/indonesia/fbrianzy.svg)](https://user-badge.committers.top/indonesia/fbrianzy)
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/fbrianzy/fbrianzy/output/snake.svg" alt="Data Snake Animation" />
 </div>
