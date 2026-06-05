@@ -25,7 +25,8 @@
 |------|-------------|------|
 | [<img src="assets/insightflow.png" width="50"/>](https://www.instagram.com/insightflowdata) | **Insight Flow** — Data insight & analytics hub for business trends. | [Instagram](https://www.instagram.com/insightflowdata) |
 | [<img src="assets/savorsave.png" width="50"/>](https://www.figma.com/proto/7kt9z4frJUfx8j4PNoFgy7/Prototype-SavorSave?node-id=0-1&t=uoJiKXzpPsdUqUNL-1) | **SavorSave** — A platform to reduce food waste and support circular economy. | [Figma Prototype](https://www.figma.com/proto/7kt9z4frJUfx8j4PNoFgy7/Prototype-SavorSave?node-id=0-1&t=uoJiKXzpPsdUqUNL-1) |
-| [<img src="https://avatars.githubusercontent.com/u/231014112" width="50"/>](https://github.com/Dolen-Cord) | **Dolen Cord** — Custom Discord bot with music, admin, and community features. | [GitHub](https://github.com/Dolen-Cord) |
+| [<img src="https://avatars.githubusercontent.com/u/231014112" width="50"/>](https://github.com/Dolen-Cord) | **Dolen Cord** — Custom Discord bot with music, admin, and community features. | [GitHub Orgs](https://github.com/Dolen-Cord) |
+| [<img src="assets/Logo-DepreScan.png" width="50"/>](https://github.com/Dolen-Cord) | [NEW] **DepreScanAI** — Depression Risk Detection System Based on Lifestyle. | [GitHub Orgs](https://github.com/DepreScanAI), [Website](https://deprescanai.netlify.app/) |
 
 
 ## My Stacks
@@ -87,10 +88,10 @@ Cloud System:
 
 ## GitHub Analytics
 
+![Stats](./profile/stats.svg)
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbrianzy&theme=dracul&show_icons=true&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&hide=html,css,jupyter%20notebook&theme=dracula&layout=compact&hide_border=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&theme=dracula&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&hide=html,css,jupyter%20notebook&layout=compact&hide_border=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&hide_border=true" />
 
 </div>
 
