@@ -98,9 +98,8 @@ Cloud System:
 
 ## WakaTime stats
 <div align="center">
- 
-[![Harlok's WakaTime stats](./profile/wakatime.svg)](./profile/wakatime.svg)
 
+[![Harlok's WakaTime stats](./profile/wakatime.svg)](./profile/wakatime.svg)
 [![wakatime](https://wakatime.com/badge/user/3ca91d59-fac7-4f62-ba46-a6193a10e248.svg)](https://wakatime.com/@3ca91d59-fac7-4f62-ba46-a6193a10e248)
 
 </div>
