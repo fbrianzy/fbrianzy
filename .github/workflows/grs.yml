@@ -35,8 +35,16 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: username=${{ github.repository_owner }}$&theme=dracula&hide_border=true&layout=compact
           path: profile/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}$&theme=dracula&hide_border=true&layout=compact
+          path: profile/streak-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
