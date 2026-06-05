@@ -87,18 +87,19 @@ Cloud System:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/451180328032272395)
 
 ## GitHub Analytics
-
-![Stats](./profile/stats.svg)
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrianzy&hide=html,css,jupyter%20notebook&layout=compact&hide_border=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&hide_border=true" />
+
+[![Stats](./profile/stats.svg)](./profile/stats.svg)
+[![Top Langs](./profile/top-langs.svg)](./profile/top-langs.svg)
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fbrianzy&layout=compact&hide_border=true" />
 
 </div>
 
 ## WakaTime stats
 <div align="center">
  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbrianzy\&layout=compact)](https://github.com/fbrianzy/)
+[![Harlok's WakaTime stats](./profile/wakatime.svg)](./profile/wakatime.svg)
 
 [![wakatime](https://wakatime.com/badge/user/3ca91d59-fac7-4f62-ba46-a6193a10e248.svg)](https://wakatime.com/@3ca91d59-fac7-4f62-ba46-a6193a10e248)
 
