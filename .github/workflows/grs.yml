@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}$&theme=dracula&hide_border=true&layout=compact
+          options: username=${{ github.repository_owner }}&theme=dracula&hide_border=true&layout=compact
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
