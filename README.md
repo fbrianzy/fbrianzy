@@ -146,6 +146,10 @@ A full-featured Discord bot supporting community servers with automated moderati
 
 <br/>
 
+<a href="https://fbrianzy.github.io/crypto-hourly/" align="center">
+  <img src="assets/banner.svg" width="100%">
+</a>
+
 ### Crypto Hourly
 > Live BTC and ETH price tracker with 1-hour ahead predictions via 5-factor technical voting
 
